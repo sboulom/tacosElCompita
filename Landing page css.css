@@ -1,0 +1,23 @@
+.hero { 
+background-color: blue;
+color: white;
+background-image: url("/img/cemita.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+
+/*Code below from https://stackoverflow.com/questions/29102884/increasing-height-of-bootstrap-jumbotron-but-remaining-responsive/29102930 */ 
+padding-top: 20%;
+padding-bottom: 20%;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+/*End of borrowed code*/ 
+}
+
+.card { 
+  background: rgba(20, 3, 3, 0.123)
+}
+
+
+
